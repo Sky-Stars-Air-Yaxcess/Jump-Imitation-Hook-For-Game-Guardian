@@ -20,6 +20,8 @@ This method was created for educational purposes only. Users are solely responsi
 
 Warnings: This is a real and legitimate inline imitation hook for Game Guardian (I was the first to create it here; this tool was not originally supposed to have any hooks!).
 
+It only works on Unity il2cpp 64-bit builds where you can dump the game.
+
 
 Example dump.cs and How to make instructions Imitation hook for Game Guardian. 
 
